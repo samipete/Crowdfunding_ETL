@@ -11,4 +11,5 @@ This project utilizes the ETL (extract, transform, load ) pipeline. We used Pyth
 *Resources folder contains xlsx files and csv output*
 
 **Entity Relationship Diagram:**
+
 ![ERD](Images/Crowdfunding_ERD_v2.png)
